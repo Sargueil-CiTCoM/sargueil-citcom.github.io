@@ -20,7 +20,8 @@ IPANEMAP is a software for predicting stable RNA secondary structures compatible
 [Source code](https://github.com/Sargueil-CiTCoM/IPANEMAP)
 
 #### References
-{% bibliography -f ipanemap %}
+
+A. Saaidi, D. Allouche, M. Regnier, B. Sargueil, Y.Ponty. IPANEMAP: Integrative Probing Analysis of Nucleic Acids Empowered by Multiple Accessibility Profiles, NAR(2020)
 
 
 ### Shape-CE Snakemake workflow
