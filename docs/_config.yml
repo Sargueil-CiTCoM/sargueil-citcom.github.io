@@ -28,10 +28,10 @@ url: "https://sargueil-citcom.github.io" # the base hostname & protocol for your
 domain: "sargueil-citcom.github.io"
 
 # Build settings
-theme: beautiful-jekyll-theme
+theme: minima #beautiful-jekyll-theme
 plugins:
   - jekyll-feed
-  - jekyll/scholar
+#  - jekyll/scholar
 
 #scholar:
 #  style: modern-language-association
