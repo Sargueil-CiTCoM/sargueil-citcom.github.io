@@ -26,7 +26,7 @@ A. Saaidi, D. Allouche, M. Regnier, B. Sargueil, Y.Ponty. IPANEMAP: Integrative 
 
 ## Shape-CE Snakemake workflow
 
-[Documentation](https://sargueil-citcom.github.io/shape-ce-docs/) 
+[Documentation](https://sargueil-citcom.github.io/rnasique-docs/) 
 
 Source code : Coming soon
 
